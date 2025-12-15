@@ -15,7 +15,7 @@ env:
   KERNEL_SOURCE : "https://github.com/LineageOS/android_kernel_lge_sm8250.git"
   KERNEL_BRANCH : "lineage-22.2"
 
-  CLANG_SOURCE : "https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86.git"
+  CLANG_SOURCE : "https://github.com/llvm/llvm-project/releases/download/llvmorg-21.1.7/LLVM-21.1.7-Linux-X64.tar.xz"
   CLANG_BRANCH : "main"
 
   GCC_GNU : true
