@@ -1,5 +1,5 @@
-name:"Build LG V60(timelm) LineageOS A15"
-
+name: "Build LG V60(timelm) LineageOS A15" 
+ 
 on:
   workflow_call:
   workflow_dispatch:
