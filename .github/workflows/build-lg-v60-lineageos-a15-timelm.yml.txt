@@ -15,7 +15,7 @@ env:
   KERNEL_SOURCE : "https://github.com/MomoYuuki/android_kernel_lge_sm8250.git"
   KERNEL_BRANCH : "main"
 
-  CLANG_SOURCE : "https://github.com/kdrag0n/proton-clang/archive/refs/tags/20210522.tar.gz"
+  CLANG_SOURCE : "https://github.com/llvm/llvm-project/releases/download/llvmorg-21.1.8/LLVM-21.1.8-Linux-X64.tar.xz"
   CLANG_BRANCH : "Releases"
 
   GCC_GNU : true
