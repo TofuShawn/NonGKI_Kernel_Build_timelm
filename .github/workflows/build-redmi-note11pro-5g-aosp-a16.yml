@@ -12,8 +12,8 @@ env:
   CUSTOM_CMDS : "CLANG_TRIPLE=aarch64-linux-gnu-"
   EXTRA_CMDS : "LD=ld.lld"
 
-  KERNEL_SOURCE : "https://github.com/dereference23/kernel_xiaomi_sm6375.git"
-  KERNEL_BRANCH : "main"
+  KERNEL_SOURCE : "https://github.com/Evolution-X-Devices/kernel_xiaomi_veux.git"
+  KERNEL_BRANCH : "bka"
 
   CLANG_SOURCE : "https://github.com/llvm/llvm-project/releases/download/llvmorg-21.1.3/LLVM-21.1.3-Linux-X64.tar.xz"
   CLANG_BRANCH : ""
